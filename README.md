@@ -11,20 +11,6 @@ Ensure you have the following installed:
 </ol> 
 
 
-<style>
-.city {
-  background-color: tomato;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
-</style>
-
-<div class="city">
-<h2>Paris</h2>
-<p>Paris is the capital of France.</p>
-</div>
 
 
 
