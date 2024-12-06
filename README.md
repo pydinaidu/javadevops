@@ -2,10 +2,17 @@ To set up a DevOps pipeline with Git, Maven, Jenkins, SonarQube, and Apache Tomc
 
 <h1>1. Prerequisites</h1>
 Ensure you have the following installed:
+<ol>
+  <li>Git: Version control system.</li>
+  <li>Maven: Build automation tool.</li>
+  <li>Jenkins: Automation server.</li>
+   <li>SonarQube: Code quality and security analysis tool.</li>
+   <li>Apache Tomcat: Deployment server.</li>
+   <li>Java JDK (compatible with all the above tools).</li>
+</ol> 
 
-Git: Version control system.
-Maven: Build automation tool.
-Jenkins: Automation server.
-SonarQube: Code quality and security analysis tool.
-Apache Tomcat: Deployment server.
-Java JDK (compatible with all the above tools).
+
+
+
+
+
